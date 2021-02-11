@@ -1,3 +1,23 @@
 .App {
   text-align: center;
 }
+
+.home {
+  text-decoration: none;
+  color: white;
+  font-size: 18px;
+  padding: 4px 8px;
+  margin: 15px;
+  background-color: rosybrown;
+  border-radius: 5px;
+}
+
+.details {
+  text-decoration: none;
+  color: white;
+  font-size: 18px;
+  padding: 4px 8px;
+  margin: 15px;
+  background-color: brown;
+  border-radius: 5px;
+}

@@ -4,7 +4,17 @@
   justify-content: space-around;
   flex: 1 1 auto;
   min-width: 25%;
-  margin: 10px 10px;
+  max-width: 75%;
+  margin: 10px auto;
+  padding: 10px;
   border: 1px gray solid;
   border-radius: 10px;
+}
+
+.maps {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  max-width: 75%;
+  margin: 10px auto;
 }
